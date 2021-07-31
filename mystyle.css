@@ -124,7 +124,7 @@ h1{
 
 .home {
   height: 100vh;
-  background-image: url(../images/background/background1.webp);
+  background-image: url(background1.webp);
 background-size: cover;
 position: relative;
 }
